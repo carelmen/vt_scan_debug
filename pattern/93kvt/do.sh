@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-# (!) set this to match you directory
-VT_DIR=/home/carelmen/top/projects/testinsight/webinar_scan/pattern/93kvt
+
+VT_DIR=../../pattern/93kvt
 
 
 MODELSIM_PATH=/opt/tools/modelsim_ase/bin
