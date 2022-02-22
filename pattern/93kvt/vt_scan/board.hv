@@ -1,0 +1,27 @@
+`ifdef _board_hv
+`else
+`define _board_hv
+`define SPI_MOSI_BOARD_DELAY 0
+`define SPI_MISO_BOARD_DELAY 0
+`define SPI_CS_BOARD_DELAY 0
+`define SPI_CLK_BOARD_DELAY 0
+`define I2C_SCL_BOARD_DELAY 0
+`define I2C_SDA_BOARD_DELAY 0
+`define JTAG_TCK_BOARD_DELAY 0
+`define JTAG_TMS_BOARD_DELAY 0
+`define JTAG_TDI_BOARD_DELAY 0
+`define JTAG_TDO_BOARD_DELAY 0
+`define JTAG_TRSTN_BOARD_DELAY 0
+`define SWDIO_BOARD_DELAY 0
+`define SWCLK_BOARD_DELAY 0
+`define clock_BOARD_DELAY 0
+`define reset_BOARD_DELAY 0
+`define scan_in0_BOARD_DELAY 0
+`define scan_in1_BOARD_DELAY 0
+`define scan_in2_BOARD_DELAY 0
+`define scan_in3_BOARD_DELAY 0
+`define scan_out0_BOARD_DELAY 0
+`define scan_out1_BOARD_DELAY 0
+`define scan_out2_BOARD_DELAY 0
+`define scan_out3_BOARD_DELAY 0
+`endif

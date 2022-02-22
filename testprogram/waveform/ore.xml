@@ -1,0 +1,12 @@
+<offlineResultEmulation>
+
+<pattern name="scan">
+<site number="1">
+<pin name="scan_out0">
+<fail xmode_cycle="2" to="3"/>
+<fail xmode_cycle="6"/>
+ </pin>
+</site>
+</pattern>
+
+</offlineResultEmulation>

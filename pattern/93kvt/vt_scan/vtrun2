@@ -1,0 +1,5 @@
+verilog \
+  +incdir+/home/carelmen/external/top/projects/testinsight/webinar_scan/pattern/93kvt/vt_scan\
+  -y /home/carelmen/external/top/projects/testinsight/webinar_scan/pattern/93kvt/vt_scan\
+  +libext+.v \
+  test_wrapper.v

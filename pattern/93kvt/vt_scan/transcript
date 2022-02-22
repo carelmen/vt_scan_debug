@@ -1,0 +1,46 @@
+# vsim -c test_wrapper -do "run -all" 
+# Start time: 09:46:59 on Feb 22,2022
+# Loading work.test_wrapper
+# Loading work.vtw_logger
+# Loading work.vtw_stdutil
+# Loading work.monitor
+# Loading work.asic
+# Loading work.chain
+# Loading work.tester
+# Loading work.Pattern0
+# Loading work.Pattern0_timing
+# Loading work.Pattern0_timing_control
+# Loading work.Pattern0_submodule_0
+# Loading work.vtw_wfg
+# Loading work.clockgen
+# run -all
+# Opening log files : vtw.log,vtw.fail,vtw.warn,vtw_waver.fail.
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #0 ][ cycle #0 ][ wft wvt_scan_E1_T1 ][ time 0 ][ comment  15 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #1 ][ cycle #1 ][ wft wvt_scan_E1_T1 ][ time 100000 ][ comment  25 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #2 ][ cycle #2 ][ wft wvt_scan_E1_T1 ][ time 200000 ][ comment  35 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #3 ][ cycle #3 ][ wft wvt_scan_E1_T1 ][ time 300000 ][ comment  45 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #4 ][ cycle #4 ][ wft wvt_scan_E1_T1 ][ time 400000 ][ comment  55 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #5 ][ cycle #5 ][ wft wvt_scan_E1_T1 ][ time 500000 ][ comment  65 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #6 ][ cycle #6 ][ wft wvt_scan_E1_T1 ][ time 600000 ][ comment  75 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #7 ][ cycle #7 ][ wft wvt_scan_E1_T1 ][ time 700000 ][ comment  85 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #8 ][ cycle #8 ][ wft wvt_scan_E1_T1 ][ time 800000 ][ comment  95 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #9 ][ cycle #9 ][ wft wvt_scan_E1_T1 ][ time 900000 ][ comment  105 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #10 ][ cycle #10 ][ wft wvt_scan_E1_T1 ][ time 1000000 ][ comment  115 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #11 ][ cycle #11 ][ wft wvt_scan_E1_T1 ][ time 1100000 ][ comment  125 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #12 ][ cycle #12 ][ wft wvt_scan_E1_T1 ][ time 1200000 ][ comment  135 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #13 ][ cycle #13 ][ wft wvt_scan_E1_T1 ][ time 1300000 ][ comment  145 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #14 ][ cycle #14 ][ wft wvt_scan_E1_T1 ][ time 1400000 ][ comment  155 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #15 ][ cycle #15 ][ wft wvt_scan_E1_T1 ][ time 1500000 ][ comment  165 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #16 ][ cycle #16 ][ wft wvt_scan_E1_T1 ][ time 1600000 ][ comment  175 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #17 ][ cycle #17 ][ wft wvt_scan_E1_T1 ][ time 1700000 ][ comment  185 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #18 ][ cycle #18 ][ wft wvt_scan_E1_T1 ][ time 1800000 ][ comment  195 ]
+# 
+# -------------------------------------------------------------------------------------------
+# Verilog TestBench completed, see log files vtw.log,vtw.fail,vtw.warn.
+# Status : simulation passed.
+# Total number of compare operations executed : 68.
+# -------------------------------------------------------------------------------------------
+# ** Note: $finish    : tester.v(199)
+#    Time: 1900 ns  Iteration: 2  Instance: /test_wrapper/tester
+# End time: 09:47:00 on Feb 22,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

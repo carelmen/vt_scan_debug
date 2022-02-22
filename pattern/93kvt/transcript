@@ -1,0 +1,214 @@
+pwd
+# /home/carelmen/external/top/projects/testinsight/webinar_scan/pattern/93kvt
+do ../wf
+# Cannot open macro file: ../wf
+cd vt_scan
+do ../wfm.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:17:43 on Feb 21,2022
+# vlog -reportprogress 300 -f vtfilelist 
+# -- Compiling module clockgen
+# -- Compiling module vtw_logger
+# -- Compiling module vtw_wfg
+# -- Compiling module vtw_stdutil
+# -- Compiling module Pattern0_timing
+# -- Compiling module Pattern0
+# -- Compiling module Pattern0_timing_control
+# -- Compiling module Pattern0_submodule_0
+# -- Compiling module test_wrapper
+# -- Compiling module tester
+# -- Compiling module monitor
+# -- Compiling module chain
+# -- Compiling module asic
+# -- Compiling module top
+# 
+# Top level modules:
+# 	test_wrapper
+# 	top
+# End time: 23:17:44 on Feb 21,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim test_wrapper 
+# Start time: 23:17:44 on Feb 21,2022
+# Loading work.test_wrapper
+# Loading work.vtw_logger
+# Loading work.vtw_stdutil
+# Loading work.monitor
+# Loading work.asic
+# Loading work.chain
+# Loading work.tester
+# Loading work.Pattern0
+# Loading work.Pattern0_timing
+# Loading work.Pattern0_timing_control
+# Loading work.Pattern0_submodule_0
+# Loading work.vtw_wfg
+# Loading work.clockgen
+# Opening log files : vtw.log,vtw.fail,vtw.warn,vtw_waver.fail.
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #0 ][ cycle #0 ][ wft wvt_scan_E1_T1 ][ time 0 ][ comment  15 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #1 ][ cycle #1 ][ wft wvt_scan_E1_T1 ][ time 100000 ][ comment  25 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #2 ][ cycle #2 ][ wft wvt_scan_E1_T1 ][ time 200000 ][ comment  35 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #3 ][ cycle #3 ][ wft wvt_scan_E1_T1 ][ time 300000 ][ comment  45 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #4 ][ cycle #4 ][ wft wvt_scan_E1_T1 ][ time 400000 ][ comment  55 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #5 ][ cycle #5 ][ wft wvt_scan_E1_T1 ][ time 500000 ][ comment  65 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #6 ][ cycle #6 ][ wft wvt_scan_E1_T1 ][ time 600000 ][ comment  75 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #7 ][ cycle #7 ][ wft wvt_scan_E1_T1 ][ time 700000 ][ comment  85 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #8 ][ cycle #8 ][ wft wvt_scan_E1_T1 ][ time 800000 ][ comment  95 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #9 ][ cycle #9 ][ wft wvt_scan_E1_T1 ][ time 900000 ][ comment  105 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #10 ][ cycle #10 ][ wft wvt_scan_E1_T1 ][ time 1000000 ][ comment  115 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #11 ][ cycle #11 ][ wft wvt_scan_E1_T1 ][ time 1100000 ][ comment  125 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #12 ][ cycle #12 ][ wft wvt_scan_E1_T1 ][ time 1200000 ][ comment  135 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #13 ][ cycle #13 ][ wft wvt_scan_E1_T1 ][ time 1300000 ][ comment  145 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #14 ][ cycle #14 ][ wft wvt_scan_E1_T1 ][ time 1400000 ][ comment  155 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #15 ][ cycle #15 ][ wft wvt_scan_E1_T1 ][ time 1500000 ][ comment  165 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #16 ][ cycle #16 ][ wft wvt_scan_E1_T1 ][ time 1600000 ][ comment  175 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #17 ][ cycle #17 ][ wft wvt_scan_E1_T1 ][ time 1700000 ][ comment  185 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #18 ][ cycle #18 ][ wft wvt_scan_E1_T1 ][ time 1800000 ][ comment  195 ]
+quit
+quit -sim
+# End time: 08:41:38 on Feb 22,2022, Elapsed time: 9:23:54
+# Errors: 0, Warnings: 0
+pwd
+# /home/carelmen/external/top/projects/testinsight/webinar_scan/pattern/93kvt/vt_scan
+do ../wfm.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:41:46 on Feb 22,2022
+# vlog -reportprogress 300 -f vtfilelist 
+# -- Compiling module clockgen
+# -- Compiling module vtw_logger
+# -- Compiling module vtw_wfg
+# -- Compiling module vtw_stdutil
+# -- Compiling module Pattern0_timing
+# -- Compiling module Pattern0
+# -- Compiling module Pattern0_timing_control
+# -- Compiling module Pattern0_submodule_0
+# -- Compiling module test_wrapper
+# -- Compiling module tester
+# -- Compiling module monitor
+# -- Compiling module chain
+# -- Compiling module asic
+# -- Compiling module top
+# 
+# Top level modules:
+# 	test_wrapper
+# 	top
+# End time: 08:41:47 on Feb 22,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim test_wrapper 
+# Start time: 08:41:47 on Feb 22,2022
+# Loading work.test_wrapper
+# Loading work.vtw_logger
+# Loading work.vtw_stdutil
+# Loading work.monitor
+# Loading work.asic
+# Loading work.chain
+# Loading work.tester
+# Loading work.Pattern0
+# Loading work.Pattern0_timing
+# Loading work.Pattern0_timing_control
+# Loading work.Pattern0_submodule_0
+# Loading work.vtw_wfg
+# Loading work.clockgen
+# Opening log files : vtw.log,vtw.fail,vtw.warn,vtw_waver.fail.
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #0 ][ cycle #0 ][ wft wvt_scan_E1_T1 ][ time 0 ][ comment  15 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #1 ][ cycle #1 ][ wft wvt_scan_E1_T1 ][ time 100000 ][ comment  25 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #2 ][ cycle #2 ][ wft wvt_scan_E1_T1 ][ time 200000 ][ comment  35 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #3 ][ cycle #3 ][ wft wvt_scan_E1_T1 ][ time 300000 ][ comment  45 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #4 ][ cycle #4 ][ wft wvt_scan_E1_T1 ][ time 400000 ][ comment  55 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #5 ][ cycle #5 ][ wft wvt_scan_E1_T1 ][ time 500000 ][ comment  65 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #6 ][ cycle #6 ][ wft wvt_scan_E1_T1 ][ time 600000 ][ comment  75 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #7 ][ cycle #7 ][ wft wvt_scan_E1_T1 ][ time 700000 ][ comment  85 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #8 ][ cycle #8 ][ wft wvt_scan_E1_T1 ][ time 800000 ][ comment  95 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #9 ][ cycle #9 ][ wft wvt_scan_E1_T1 ][ time 900000 ][ comment  105 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out2 in scan ][ vector #9 ][ cycle #9 ][ comment  105 ][ wfc 3][ real 0 ][ exp 1 ][ time 945000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out0 in scan ][ vector #9 ][ cycle #9 ][ comment  105 ][ wfc 3][ real 0 ][ exp 1 ][ time 945000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #10 ][ cycle #10 ][ wft wvt_scan_E1_T1 ][ time 1000000 ][ comment  115 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out3 in scan ][ vector #10 ][ cycle #10 ][ comment  115 ][ wfc 3][ real 0 ][ exp 1 ][ time 1045000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out0 in scan ][ vector #10 ][ cycle #10 ][ comment  115 ][ wfc 2][ real 1 ][ exp 0 ][ time 1045000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #11 ][ cycle #11 ][ wft wvt_scan_E1_T1 ][ time 1100000 ][ comment  125 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out3 in scan ][ vector #11 ][ cycle #11 ][ comment  125 ][ wfc 2][ real 1 ][ exp 0 ][ time 1145000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out1 in scan ][ vector #11 ][ cycle #11 ][ comment  125 ][ wfc 3][ real 0 ][ exp 1 ][ time 1145000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out0 in scan ][ vector #11 ][ cycle #11 ][ comment  125 ][ wfc 3][ real 0 ][ exp 1 ][ time 1145000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #12 ][ cycle #12 ][ wft wvt_scan_E1_T1 ][ time 1200000 ][ comment  135 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #13 ][ cycle #13 ][ wft wvt_scan_E1_T1 ][ time 1300000 ][ comment  145 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out3 in scan ][ vector #13 ][ cycle #13 ][ comment  145 ][ wfc 3][ real 0 ][ exp 1 ][ time 1345000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out2 in scan ][ vector #13 ][ cycle #13 ][ comment  145 ][ wfc 2][ real 1 ][ exp 0 ][ time 1345000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out1 in scan ][ vector #13 ][ cycle #13 ][ comment  145 ][ wfc 2][ real 1 ][ exp 0 ][ time 1345000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #14 ][ cycle #14 ][ wft wvt_scan_E1_T1 ][ time 1400000 ][ comment  155 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out3 in scan ][ vector #14 ][ cycle #14 ][ comment  155 ][ wfc 2][ real 1 ][ exp 0 ][ time 1445000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out2 in scan ][ vector #14 ][ cycle #14 ][ comment  155 ][ wfc 3][ real 0 ][ exp 1 ][ time 1445000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out1 in scan ][ vector #14 ][ cycle #14 ][ comment  155 ][ wfc 3][ real 0 ][ exp 1 ][ time 1445000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #15 ][ cycle #15 ][ wft wvt_scan_E1_T1 ][ time 1500000 ][ comment  165 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out1 in scan ][ vector #15 ][ cycle #15 ][ comment  165 ][ wfc 2][ real 1 ][ exp 0 ][ time 1545000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out0 in scan ][ vector #15 ][ cycle #15 ][ comment  165 ][ wfc 2][ real 1 ][ exp 0 ][ time 1545000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #16 ][ cycle #16 ][ wft wvt_scan_E1_T1 ][ time 1600000 ][ comment  175 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out3 in scan ][ vector #16 ][ cycle #16 ][ comment  175 ][ wfc 3][ real 0 ][ exp 1 ][ time 1645000 ]
+# [ VTCMPVAL ][ compare failed ][ scan_out2 in scan ][ vector #16 ][ cycle #16 ][ comment  175 ][ wfc 2][ real 1 ][ exp 0 ][ time 1645000 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #17 ][ cycle #17 ][ wft wvt_scan_E1_T1 ][ time 1700000 ][ comment  185 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #18 ][ cycle #18 ][ wft wvt_scan_E1_T1 ][ time 1800000 ][ comment  195 ]
+ quit -sim
+# End time: 08:44:33 on Feb 22,2022, Elapsed time: 0:02:46
+# Errors: 0, Warnings: 0
+do ../wfm.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:47 on Feb 22,2022
+# vlog -reportprogress 300 -f vtfilelist 
+# -- Compiling module clockgen
+# -- Compiling module vtw_logger
+# -- Compiling module vtw_wfg
+# -- Compiling module vtw_stdutil
+# -- Compiling module Pattern0_timing
+# -- Compiling module Pattern0
+# -- Compiling module Pattern0_timing_control
+# -- Compiling module Pattern0_submodule_0
+# -- Compiling module test_wrapper
+# -- Compiling module tester
+# -- Compiling module monitor
+# -- Compiling module chain
+# -- Compiling module asic
+# -- Compiling module top
+# 
+# Top level modules:
+# 	test_wrapper
+# 	top
+# End time: 08:44:47 on Feb 22,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim test_wrapper 
+# Start time: 08:44:47 on Feb 22,2022
+# Loading work.test_wrapper
+# Loading work.vtw_logger
+# Loading work.vtw_stdutil
+# Loading work.monitor
+# Loading work.asic
+# Loading work.chain
+# Loading work.tester
+# Loading work.Pattern0
+# Loading work.Pattern0_timing
+# Loading work.Pattern0_timing_control
+# Loading work.Pattern0_submodule_0
+# Loading work.vtw_wfg
+# Loading work.clockgen
+# Opening log files : vtw.log,vtw.fail,vtw.warn,vtw_waver.fail.
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #0 ][ cycle #0 ][ wft wvt_scan_E1_T1 ][ time 0 ][ comment  15 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #1 ][ cycle #1 ][ wft wvt_scan_E1_T1 ][ time 100000 ][ comment  25 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #2 ][ cycle #2 ][ wft wvt_scan_E1_T1 ][ time 200000 ][ comment  35 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #3 ][ cycle #3 ][ wft wvt_scan_E1_T1 ][ time 300000 ][ comment  45 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #4 ][ cycle #4 ][ wft wvt_scan_E1_T1 ][ time 400000 ][ comment  55 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #5 ][ cycle #5 ][ wft wvt_scan_E1_T1 ][ time 500000 ][ comment  65 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #6 ][ cycle #6 ][ wft wvt_scan_E1_T1 ][ time 600000 ][ comment  75 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #7 ][ cycle #7 ][ wft wvt_scan_E1_T1 ][ time 700000 ][ comment  85 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #8 ][ cycle #8 ][ wft wvt_scan_E1_T1 ][ time 800000 ][ comment  95 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #9 ][ cycle #9 ][ wft wvt_scan_E1_T1 ][ time 900000 ][ comment  105 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #10 ][ cycle #10 ][ wft wvt_scan_E1_T1 ][ time 1000000 ][ comment  115 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #11 ][ cycle #11 ][ wft wvt_scan_E1_T1 ][ time 1100000 ][ comment  125 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #12 ][ cycle #12 ][ wft wvt_scan_E1_T1 ][ time 1200000 ][ comment  135 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #13 ][ cycle #13 ][ wft wvt_scan_E1_T1 ][ time 1300000 ][ comment  145 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #14 ][ cycle #14 ][ wft wvt_scan_E1_T1 ][ time 1400000 ][ comment  155 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #15 ][ cycle #15 ][ wft wvt_scan_E1_T1 ][ time 1500000 ][ comment  165 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #16 ][ cycle #16 ][ wft wvt_scan_E1_T1 ][ time 1600000 ][ comment  175 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #17 ][ cycle #17 ][ wft wvt_scan_E1_T1 ][ time 1700000 ][ comment  185 ]
+# [ VTVECINF ][ vector information ][ pattern scan ][ vector #18 ][ cycle #18 ][ wft wvt_scan_E1_T1 ][ time 1800000 ][ comment  195 ]
+quit
+# End time: 09:00:30 on Feb 22,2022, Elapsed time: 0:15:43
+# Errors: 0, Warnings: 0
